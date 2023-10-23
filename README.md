@@ -1,5 +1,5 @@
 # Machine-learning
-author-shivam kumar 
+author-Shivam kumar 
 Project Name- Bank Customer Churn Model 
-description- "this is a machine learning project 
-             this project  tells us the  Information about the customers who will leave the banking services in the future."
+description- "This is a Machine learning project 
+             This Project  tells us the  Information about the customers who will leave the banking services in the future."
